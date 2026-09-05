@@ -44,7 +44,7 @@ Zaman parametresi ayrıktır ve her adım bir iş gününe karşılık gelir: **
 ## Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/<kullanici-adiniz>/markov-chain-stock-analysis.git
+git clone https://github.com/<mirayinc>/markov-chain-stock-analysis.git
 cd markov-chain-stock-analysis
 
 pip install -r requirements.txt
@@ -182,7 +182,7 @@ The time parameter is discrete, each step corresponding to one trading day: **T 
 ## Installation and Usage
 
 ```bash
-git clone https://github.com/<your-username>/markov-chain-stock-analysis.git
+git clone https://github.com/<mirayinc>/markov-chain-stock-analysis.git
 cd markov-chain-stock-analysis
 
 pip install -r requirements.txt
